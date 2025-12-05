@@ -1,4 +1,6 @@
 # JS Is Fun 🦑
+This is a workshop set up for students of [Code University in Berlin](https://code.berlin/en/).
+
 Here you can find some examples of how to apply JS.
 
 
