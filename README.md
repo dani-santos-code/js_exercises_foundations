@@ -1,5 +1,6 @@
+_Note_: Material I created for a workshop on Javascript as part of the Foundations of Software Engineering course led by prof. Adam Roe at [Code University in Berlin](https://code.berlin/en/).
+
 # JS Is Fun 🦑
-This is a workshop set up for students of [Code University in Berlin](https://code.berlin/en/).
 
 Here you can find some examples of how to apply JS.
 
